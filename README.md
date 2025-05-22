@@ -1,103 +1,45 @@
-# PT-BR
-# 👋 Olá! Eu sou um desenvolvedor em aprendizado!
+PT-BR 🇧🇷
+👋 Olá! Sou um desenvolvedor em aprendizado
+Focado em Front-end. Aqui compartilho projetos, estudos e muita prática!
 
-Bem-vindo ao meu perfil do GitHub! Aqui você vai encontrar projetos simples, experimentos e muita prática de desenvolvimento Web. Estou focando principalmente em **Front-end**, mas também estou começando a aprender **Back-end**. 😄
 
-[![card](https://github-readme-stats.vercel.app/api?username=PedroRibeiro-92&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
+🚀 Tecnologias
+<p> <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"/> <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"/> <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/> <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"/> </p>
 
-## 🚀 Tecnologias que estou aprendendo:
 
-### 🎨 Front-end
-- <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-- <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-- <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"/></code>
-- <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code> (estudando!)
+🎯 Objetivos
+Criar projetos completos
 
-### 🛠️ Back-end (aprendendo aos poucos)
-- <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"/></code>
-- <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js"/></code>
-- <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL"/></code>
+Melhorar minha lógica
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRibeiro-92&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+Usar Git/GitHub com confiança
 
----
+Me tornar dev júnior até o fim do ano
 
-## 📚 Estou estudando:
-- Fundamentos da programação Web
-- Estrutura de dados básica
-- Lógica de programação
-- Integração entre front-end e back-end
-- APIs RESTful
+💬 Contato
+📧 pedro77developer@gmail.com
+🔗 LinkedIn
 
----
+EN 🇺🇸
+👋 Hi! I'm a developer in training
+Focused on Front-end. I share my projects, practice, and learning journey here!
 
-## 🎯 Objetivos:
-- Criar meus primeiros projetos completos (Full Stack)
-- Melhorar minha lógica de programação
-- Aprender versionamento com Git e GitHub
-- Me tornar um desenvolvedor web júnior até o final do ano
 
----
 
-## 💬 Vamos conversar?
-- 📫 Me mande uma mensagem: **pedro77developer@gmail.com**
-- 💼 Me adicione no LinkedIn: [PedroRibeiro] https://www.linkedin.com/in/pedro-ribeiro-906888302/
+🚀 Technologies
+<p> <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"/> <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"/> <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/> <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"/> </p>
 
----
 
-Obrigado por visitar! Sinta-se à vontade para explorar meus repositórios. Cada contribuição ou sugestão é muito bem-vinda enquanto continuo nessa jornada como desenvolvedor! 🚀
+🎯 Goals
+Build complete projects
 
----
+Improve my logic
 
-# EN
-# 👋 Hi there! I'm a developer in training!
+Use Git/GitHub confidently
 
-Welcome to my GitHub profile! Here you'll find simple projects, experiments, and lots of coding practice. I'm mainly focused on **Front-end development**, but I'm also starting to learn **Back-end**. 😄
+Become a junior developer by year-end
 
-[![card](https://github-readme-stats.vercel.app/api?username=PedroRibeiro-92&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 🚀 Technologies I'm learning:
-
-### 🎨 Front-end
-- <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-- <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-- <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"/></code>
-- <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code> (currently learning!)
-
-### 🛠️ Back-end (beginner level)
-- <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"/></code>
-- <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js"/></code>
-- <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL"/></code>
-
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRibeiro-92&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 📚 I'm currently studying:
-- Web development fundamentals
-- Basic data structures
-- Programming logic
-- Front-end and back-end integration
-- RESTful APIs
-
----
-
-## 🎯 Goals:
-- Build my first full stack projects
-- Improve my coding logic
-- Learn Git and GitHub version control
-- Become a junior web developer by the end of the year
-
----
-
-## 💬 Let's connect!
-- 📫 Email me at: **pedro77developer@gmail.com**
-- 💼 Connect on LinkedIn: [PedroRibeiro] https://www.linkedin.com/in/pedro-ribeiro-906888302/
-
----
-
-Thanks for stopping by! Feel free to explore my repositories. Any feedback or contributions are super welcome as I grow in my dev journey! 🚀
+💬 Contact
+📧 pedro77developer@gmail.com
+🔗 LinkedIn
