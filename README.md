@@ -1,4 +1,4 @@
-PT-BR 🇧🇷
+## PT-BR
 👋 Olá! Sou um desenvolvedor em aprendizado
 Focado em Front-end. Aqui compartilho projetos, estudos e muita prática!
 
@@ -21,7 +21,7 @@ Me tornar dev júnior até o fim do ano
 📧 pedro77developer@gmail.com
 🔗 LinkedIn
 
-EN 🇺🇸
+## EN
 👋 Hi! I'm a developer in training
 Focused on Front-end. I share my projects, practice, and learning journey here!
 
