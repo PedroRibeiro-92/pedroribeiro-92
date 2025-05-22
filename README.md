@@ -18,8 +18,8 @@ Usar Git/GitHub com confiança
 Me tornar dev júnior até o fim do ano
 
 💬 Contato
-📧 pedro77developer@gmail.com
-🔗 LinkedIn
+pedro77developer@gmail.com
+🔗 <a href="https://www.linkedin.com/in/pedro-ribeiro-906888302/" target="_blank">LinkedIn</a>
 
 ## EN
 👋 Hi! I'm a developer in training
@@ -41,5 +41,6 @@ Use Git/GitHub confidently
 Become a junior developer by year-end
 
 💬 Contact
-📧 pedro77developer@gmail.com
-🔗 LinkedIn
+pedro77developer@gmail.com
+🔗 <a href="https://www.linkedin.com/in/pedro-ribeiro-906888302/" target="_blank">LinkedIn</a>
+
